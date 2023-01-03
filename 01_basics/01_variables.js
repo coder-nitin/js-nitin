@@ -18,4 +18,5 @@ console.log(accountId)
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
 
+//testing
 //we can use semi colons in javascript its based on choice
